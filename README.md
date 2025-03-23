@@ -1,8 +1,16 @@
-# React + Vite
+# react-dynamic-theming
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website was made using React with the implementation of:
+Hooks, Effects, Routing, and the Context API.
 
-Currently, two official plugins are available:
+The TailwindCSS framework was also used for design, along with libraries such as @headlessui/react and @heroicons/react/24/outline.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The theme and language settings are also saved for each time you visit this page.
+
+Others:
+
+
+* TailwindCSS plus
+* React SVG Icons
+* Hero Icons
+* HeadlessUI
